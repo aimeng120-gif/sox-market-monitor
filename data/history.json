@@ -36,7 +36,7 @@
     "ENTG",
     "AMKR"
   ],
-  "updated_at": "2026-07-17T23:24:14.957285+00:00",
+  "updated_at": "2026-07-20T23:31:04.280362+00:00",
   "rows": [
     {
       "date": "2026-01-02",
@@ -143,7 +143,7 @@
     {
       "date": "2026-01-28",
       "sox_market_cap_trn": 11.5706,
-      "us_market_cap_trn": 68.4035,
+      "us_market_cap_trn": 68.4036,
       "share_pct": 16.9153
     },
     {
@@ -245,7 +245,7 @@
     {
       "date": "2026-02-23",
       "sox_market_cap_trn": 11.6399,
-      "us_market_cap_trn": 67.0836,
+      "us_market_cap_trn": 67.0837,
       "share_pct": 17.3514
     },
     {
@@ -294,7 +294,7 @@
       "date": "2026-03-05",
       "sox_market_cap_trn": 11.1839,
       "us_market_cap_trn": 66.9919,
-      "share_pct": 16.6944
+      "share_pct": 16.6945
     },
     {
       "date": "2026-03-06",
@@ -329,7 +329,7 @@
     {
       "date": "2026-03-13",
       "sox_market_cap_trn": 10.9408,
-      "us_market_cap_trn": 65.024,
+      "us_market_cap_trn": 65.0241,
       "share_pct": 16.8257
     },
     {
@@ -365,7 +365,7 @@
     {
       "date": "2026-03-23",
       "sox_market_cap_trn": 10.9211,
-      "us_market_cap_trn": 64.6372,
+      "us_market_cap_trn": 64.6373,
       "share_pct": 16.8959
     },
     {
@@ -498,7 +498,7 @@
       "date": "2026-04-23",
       "sox_market_cap_trn": 13.1173,
       "us_market_cap_trn": 69.9619,
-      "share_pct": 18.7493
+      "share_pct": 18.7492
     },
     {
       "date": "2026-04-24",
@@ -718,9 +718,9 @@
     },
     {
       "date": "2026-06-16",
-      "sox_market_cap_trn": 15.5339,
+      "sox_market_cap_trn": 15.5338,
       "us_market_cap_trn": 74.076,
-      "share_pct": 20.9702
+      "share_pct": 20.9701
     },
     {
       "date": "2026-06-17",
@@ -846,7 +846,13 @@
       "date": "2026-07-17",
       "sox_market_cap_trn": 14.3527,
       "us_market_cap_trn": 73.6151,
-      "share_pct": 19.4969
+      "share_pct": 19.497
+    },
+    {
+      "date": "2026-07-20",
+      "sox_market_cap_trn": 14.4504,
+      "us_market_cap_trn": 73.4627,
+      "share_pct": 19.6704
     }
   ]
 }
